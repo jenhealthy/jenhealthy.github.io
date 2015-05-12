@@ -1,0 +1,135 @@
+h1{
+	text-align: center;
+	color: rgb(155,0,0);
+	font-size: 850%;
+}
+
+.CoverBG { 
+  background: url("../img/Forest.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+p.pos_fixed {
+    position: fixed;
+    top: 600px;
+    right: 320px;
+    color: red;
+} 
+
+p{
+	color:black;
+  text-align: center;
+	font-size: 200%;
+}
+
+.ABbackground
+{
+  background: url("../img/TwoPaths.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+  a:link {
+    color: rgb(255,145,145);
+}
+
+/* visited link */
+a:visited {
+    color: rgb(145,255,255);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgb(145,255,255);
+}
+
+/* selected link */
+a:active {
+    color: rgb(12,0,12);
+}
+.A1background
+{
+  background: url("../img/freeanimalpath.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.A2background
+{
+  background: url("../img/flowers.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.A3background
+{
+  background: url("../img/Theend.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.A4background
+{
+  background: url("../img/RIP.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.B1background
+{
+  background: url("../img/freeanimalpath.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.B2background
+{
+  background: url("../img/wolfattack.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.B3background
+{
+  background: url("../img/b3.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.B4background
+{
+  background: url("../img/Sereen.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.B5background
+{
+  background: url("../img/dead.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.B6background
+{
+  background: url("../img/huntsmen.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.top {
+  margin-top: 200px; 
+}
