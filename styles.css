@@ -13,21 +13,7 @@ color: white;
  opacity: 0.9;
 }
 
-#title, #description {
+#title, #description, #survey-form {
   text-align: center;
-}
-
-#description {
-  margin-bottom: 30px;
-}
-
-#name, #email, #dropdown {
-  display: inline-block;
-  float: left;
-  margin: auto;
-}
-
-.d-flex {
-   margin: 10px;
 }
 
