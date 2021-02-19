@@ -1,0 +1,32 @@
+html {
+  font-family: 'Lato', 'Lucinda Grande', 'Lucida Sans Unicode', Tahoma, San-Serif;
+  line-height: 1.5;
+}
+
+#title,p,h2,figcaption,footer,h3{
+  text-align: center;
+}
+#title {
+  margin-top: 50px;
+}
+#img-div {
+  background-color: white
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  padding: 10px;
+}
+
+.col-xs-4 {
+ padding: 8px 10px;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
