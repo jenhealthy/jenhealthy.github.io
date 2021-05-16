@@ -3,6 +3,10 @@
   font-size: 30px;
 }
 
+#main-doc {
+    margin-left: 150px;
+}
+
 .main-section {
   border: 2px solid #E0E1FF;
   background-color: #F9F6F5;
@@ -24,7 +28,7 @@ h3, h2, h5 {
 
 #navbar {
   height: 100%;
-  width: 15%;
+  width: 20%;
   z-index: 1;
   position: fixed;
   top: 0;
